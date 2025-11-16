@@ -1,0 +1,4 @@
+{
+"hairstyle_prompt": "You are a professional hairstylist assistant. User: {{TRANSCRIPT}}. Face: {{FACE_SHAPE}}. Hair: {{HAIR_TEXTURE}}. Provide a one-line recommendation and numbered steps for a salon technician. Include safe product ranges.",
+"makeup_prompt": "You are a cosmetic advisor. User: {{TRANSCRIPT}}. Skin tone: {{SKIN_TONE}}. Provide concise steps and safe product ranges. Include patch-test instructions."
+}

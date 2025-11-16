@@ -1,0 +1,317 @@
+[
+  {
+    "id": "skin_tone_1",
+    "category": "skin_tone",
+    "title": "Fair Skin Tone",
+    "text": "Fair skin often has pink or neutral undertones and burns easily in the sun. Best suited for light foundation shades like Porcelain, Ivory, and Vanilla.",
+    "metadata": {"tone": "fair", "type": "base_match"}
+  },
+  {
+    "id": "skin_tone_2",
+    "category": "skin_tone",
+    "title": "Light Skin Tone",
+    "text": "Light skin has slightly more warmth than fair tones and tans a little. Ideal foundation matches include Warm Ivory, Nude, and Light Beige.",
+    "metadata": {"tone": "light", "type": "base_match"}
+  },
+  {
+    "id": "skin_tone_3",
+    "category": "skin_tone",
+    "title": "Medium Skin Tone",
+    "text": "Medium skin has balanced pigmentation and tans easily. Works best with foundation shades like Sand, Honey, and Natural Beige.",
+    "metadata": {"tone": "medium", "type": "base_match"}
+  },
+  {
+    "id": "skin_tone_4",
+    "category": "skin_tone",
+    "title": "Tan Skin Tone",
+    "text": "Tan skin features golden or olive undertones and rarely burns. Recommended shades include Caramel, Golden, and Warm Tan.",
+    "metadata": {"tone": "tan", "type": "base_match"}
+  },
+  {
+    "id": "skin_tone_5",
+    "category": "skin_tone",
+    "title": "Deep Skin Tone",
+    "text": "Deep skin has rich pigmentation with red, blue, or golden undertones. Best foundation shades include Chestnut, Espresso, and Cocoa.",
+    "metadata": {"tone": "deep", "type": "base_match"}
+  },
+  {
+    "id": "undertone_1",
+    "category": "undertone",
+    "title": "Cool Undertone",
+    "text": "Cool undertones show bluish veins and suit silver jewelry. Best makeup colors include pink, rose, and neutral-cool tones.",
+    "metadata": {"undertone": "cool", "type": "skin_analysis"}
+  },
+  {
+    "id": "undertone_2",
+    "category": "undertone",
+    "title": "Warm Undertone",
+    "text": "Warm undertones show greenish veins and look best with gold jewelry. Choose foundation and blush with golden or peach hues.",
+    "metadata": {"undertone": "warm", "type": "skin_analysis"}
+  },
+  {
+    "id": "undertone_3",
+    "category": "undertone",
+    "title": "Neutral Undertone",
+    "text": "Neutral undertones show a balance of blue and green veins. They can wear both cool and warm shades comfortably.",
+    "metadata": {"undertone": "neutral", "type": "skin_analysis"}
+  },
+  {
+    "id": "face_shape_1",
+    "category": "face_shape",
+    "title": "Oval Face Shape",
+    "text": "Oval faces suit most makeup styles. Apply contour to the sides of the forehead and blush on the apples of the cheeks.",
+    "metadata": {"shape": "oval", "type": "contour_highlight"}
+  },
+  {
+    "id": "face_shape_2",
+    "category": "face_shape",
+    "title": "Round Face Shape",
+    "text": "Round faces benefit from elongating contour along the sides and jawline. Apply blush slightly above the apples to lift the cheeks.",
+    "metadata": {"shape": "round", "type": "contour_highlight"}
+  },
+  {
+    "id": "face_shape_3",
+    "category": "face_shape",
+    "title": "Square Face Shape",
+    "text": "Contour along the jawline and temples to soften edges. Highlight the nose bridge and under eyes for balance.",
+    "metadata": {"shape": "square", "type": "contour_highlight"}
+  },
+  {
+    "id": "face_shape_4",
+    "category": "face_shape",
+    "title": "Heart Face Shape",
+    "text": "Heart-shaped faces look balanced with contour on the temples and chin. Apply blush just below the cheekbones.",
+    "metadata": {"shape": "heart", "type": "contour_highlight"}
+  },
+  {
+    "id": "face_shape_5",
+    "category": "face_shape",
+    "title": "Long Face Shape",
+    "text": "Contour forehead and chin to shorten the appearance. Apply blush horizontally to create width.",
+    "metadata": {"shape": "long", "type": "contour_highlight"}
+  },
+  {
+    "id": "eye_makeup_1",
+    "category": "eye_makeup",
+    "title": "Monolid Eye Shape",
+    "text": "Use gradient eyeshadow with shimmer in the center. A thin liner enhances the lash line without overpowering the lid.",
+    "metadata": {"eye_shape": "monolid", "style": "soft_glam"}
+  },
+  {
+    "id": "eye_makeup_2",
+    "category": "eye_makeup",
+    "title": "Hooded Eyes",
+    "text": "Apply matte shades above the crease to open the eyes. Use a thin eyeliner and lift the outer corner slightly.",
+    "metadata": {"eye_shape": "hooded", "style": "natural"}
+  },
+  {
+    "id": "eye_makeup_3",
+    "category": "eye_makeup",
+    "title": "Almond Eyes",
+    "text": "Most versatile shape for makeup. Symmetrical smokey eyes or cat eyeliner enhances their natural balance.",
+    "metadata": {"eye_shape": "almond", "style": "smokey"}
+  },
+  {
+    "id": "eye_makeup_4",
+    "category": "eye_makeup",
+    "title": "Round Eyes",
+    "text": "Use darker shadows at the outer corners to elongate. Avoid thick liner on the lower lash to keep eyes open.",
+    "metadata": {"eye_shape": "round", "style": "elongated"}
+  },
+  {
+    "id": "eye_makeup_5",
+    "category": "eye_makeup",
+    "title": "Downturned Eyes",
+    "text": "Create an upward flick with liner to lift the eyes. Focus mascara on the outer lashes for an instant lift.",
+    "metadata": {"eye_shape": "downturned", "style": "uplift"}
+  },
+  {
+    "id": "lip_shade_1",
+    "category": "lip_shade",
+    "title": "Fair Skin Lip Shades",
+    "text": "Soft pinks, corals, and mauves flatter fair skin tones. Avoid overly dark shades that can appear harsh.",
+    "metadata": {"skin_tone": "fair", "type": "lip_color"}
+  },
+  {
+    "id": "lip_shade_2",
+    "category": "lip_shade",
+    "title": "Medium Skin Lip Shades",
+    "text": "Berry, terracotta, and warm nudes look natural on medium tones. Plum adds elegance for evening looks.",
+    "metadata": {"skin_tone": "medium", "type": "lip_color"}
+  },
+  {
+    "id": "lip_shade_3",
+    "category": "lip_shade",
+    "title": "Tan Skin Lip Shades",
+    "text": "Deep rose, copper, and chestnut tones enhance tan skin beautifully. Brick red works well for parties.",
+    "metadata": {"skin_tone": "tan", "type": "lip_color"}
+  },
+  {
+    "id": "lip_shade_4",
+    "category": "lip_shade",
+    "title": "Deep Skin Lip Shades",
+    "text": "Rich burgundy, plum brown, and chocolate tones complement deep skin. Metallic shades add a glamorous touch.",
+    "metadata": {"skin_tone": "deep", "type": "lip_color"}
+  },
+  {
+    "id": "season_1",
+    "category": "seasonal_look",
+    "title": "Spring Makeup Look",
+    "text": "Fresh and dewy look with peach, coral, and light green tones. Keep the base luminous and natural.",
+    "metadata": {"season": "spring", "theme": "fresh_dewy"}
+  },
+  {
+    "id": "season_2",
+    "category": "seasonal_look",
+    "title": "Summer Makeup Look",
+    "text": "Soft, romantic shades like pink, lilac, and bronze dominate. Lightweight foundation keeps skin glowing.",
+    "metadata": {"season": "summer", "theme": "soft_romantic"}
+  },
+  {
+    "id": "season_3",
+    "category": "seasonal_look",
+    "title": "Autumn Makeup Look",
+    "text": "Use earthy colors like rust, amber, and gold. Matte finishes and warm tones suit fall lighting.",
+    "metadata": {"season": "autumn", "theme": "earthy_warm"}
+  },
+  {
+    "id": "season_4",
+    "category": "seasonal_look",
+    "title": "Winter Makeup Look",
+    "text": "Bold glam with navy, wine, and silver accents. Matte lips and shimmer eyes complete the holiday look.",
+    "metadata": {"season": "winter", "theme": "bold_glam"}
+  },
+  {
+    "id": "occasion_1",
+    "category": "occasion",
+    "title": "Office Makeup Look",
+    "text": "Go for matte foundation, neutral eyeshadow, and nude gloss. Keep the overall finish natural and polished.",
+    "metadata": {"occasion": "office", "style": "minimal"}
+  },
+  {
+    "id": "occasion_2",
+    "category": "occasion",
+    "title": "Evening Party Look",
+    "text": "Use satin foundation, smokey eyes, and bold lips like red or plum. Add subtle highlighter for glow.",
+    "metadata": {"occasion": "evening", "style": "glam"}
+  },
+  {
+    "id": "occasion_3",
+    "category": "occasion",
+    "title": "Bridal Look",
+    "text": "Opt for full coverage foundation, soft shimmer eyes, and rose lips. Setting spray ensures long wear.",
+    "metadata": {"occasion": "bridal", "style": "elegant"}
+  },
+  {
+    "id": "occasion_4",
+    "category": "occasion",
+    "title": "Photoshoot Look",
+    "text": "HD matte base and precise contouring create a flawless effect. Avoid SPF to prevent white cast under lights.",
+    "metadata": {"occasion": "photoshoot", "style": "hd_matte"}
+  },
+  {
+    "id": "occasion_5",
+    "category": "occasion",
+    "title": "Outdoor Casual Look",
+    "text": "Use BB cream, waterproof mascara, and tinted lip balm. Lightweight formulas help skin breathe.",
+    "metadata": {"occasion": "outdoor", "style": "natural_light"}
+  },
+  {
+    "id": "skin_prep_1",
+    "category": "skin_prep",
+    "title": "Pre-Makeup Cleansing",
+    "text": "Use a gentle foaming cleanser to remove oil and dirt before applying any base product.",
+    "metadata": {"step": "cleanser", "type": "base_prep"}
+  },
+  {
+    "id": "skin_prep_2",
+    "category": "skin_prep",
+    "title": "Toning Step",
+    "text": "Apply toner to balance pH and refresh skin. Rose water or witch hazel works well for all types.",
+    "metadata": {"step": "toner", "type": "base_prep"}
+  },
+  {
+    "id": "skin_prep_3",
+    "category": "skin_prep",
+    "title": "Moisturizing",
+    "text": "Hydrate with a moisturizer containing hyaluronic acid for smoother makeup application.",
+    "metadata": {"step": "moisturizer", "type": "base_prep"}
+  },
+  {
+    "id": "skin_prep_4",
+    "category": "skin_prep",
+    "title": "Primer Use",
+    "text": "Apply primer to fill pores and control shine. Silicone-based primers give a smooth finish.",
+    "metadata": {"step": "primer", "type": "base_prep"}
+  },
+  {
+    "id": "skin_prep_5",
+    "category": "skin_prep",
+    "title": "Sun Protection",
+    "text": "Finish prep with broad-spectrum SPF to protect against UV damage before makeup.",
+    "metadata": {"step": "spf", "type": "base_prep"}
+  },
+  {
+    "id": "product_pair_1",
+    "category": "product_pairing",
+    "title": "Foundation by Skin Type",
+    "text": "Dry skin suits dewy foundation, oily skin prefers matte formulas, and sensitive skin benefits from mineral bases.",
+    "metadata": {"product": "foundation", "use_case": "skin_type_match"}
+  },
+  {
+    "id": "product_pair_2",
+    "category": "product_pairing",
+    "title": "Concealer by Skin Type",
+    "text": "Cream concealers hydrate dry skin, while matte liquids work better for oily types.",
+    "metadata": {"product": "concealer", "use_case": "skin_type_match"}
+  },
+  {
+    "id": "product_pair_3",
+    "category": "product_pairing",
+    "title": "Blush Type Match",
+    "text": "Cream blush suits dry skin; powder blush controls oil; non-comedogenic types fit sensitive skin.",
+    "metadata": {"product": "blush", "use_case": "skin_type_match"}
+  },
+  {
+    "id": "product_pair_4",
+    "category": "product_pairing",
+    "title": "Setting Product Choice",
+    "text": "Use cream-based setting for dry skin, loose powder for oily, and micronized powders for sensitive types.",
+    "metadata": {"product": "setting", "use_case": "skin_type_match"}
+  },
+  {
+    "id": "beauty_hack_1",
+    "category": "beauty_hack",
+    "title": "Longer Lipstick Wear",
+    "text": "Blot lips with tissue and reapply a thin layer for longer staying power.",
+    "metadata": {"hack_type": "lipstick", "benefit": "longevity"}
+  },
+  {
+    "id": "beauty_hack_2",
+    "category": "beauty_hack",
+    "title": "Bright Under Eyes",
+    "text": "Apply a peach corrector before concealer to neutralize dark circles.",
+    "metadata": {"hack_type": "concealer", "benefit": "brightening"}
+  },
+  {
+    "id": "beauty_hack_3",
+    "category": "beauty_hack",
+    "title": "Smudge-Free Mascara",
+    "text": "Set under-eye area with powder to prevent mascara transfer.",
+    "metadata": {"hack_type": "mascara", "benefit": "smudge_control"}
+  },
+  {
+    "id": "beauty_hack_4",
+    "category": "beauty_hack",
+    "title": "Instant Glow Trick",
+    "text": "Mix a drop of liquid highlighter with foundation for a dewy finish.",
+    "metadata": {"hack_type": "foundation", "benefit": "glow"}
+  },
+  {
+    "id": "beauty_hack_5",
+    "category": "beauty_hack",
+    "title": "Quick Eye Lift",
+    "text": "Apply concealer upward from outer eye corners for an instant lifted look.",
+    "metadata": {"hack_type": "concealer", "benefit": "lifting"}
+  }
+]

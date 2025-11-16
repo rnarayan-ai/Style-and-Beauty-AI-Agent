@@ -1,0 +1,24 @@
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+pydantic
+httpx
+python-dotenv
+loguru
+redis
+sentence-transformers
+chromadb
+opencv-python-headless
+Pillow
+openai-whisper
+torch
+coqui-tts
+uvloop; sys_platform != "win32"
+httptools
+bcrypt
+pytest
+groq
+aiortc
+websockets
+mediapipe
